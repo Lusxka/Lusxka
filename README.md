@@ -55,20 +55,32 @@
 <br>
 
 <h2 align="center">📘 Meus Principais Projetos</h2>
-<div align="center">
-  <a href="https://projeto-react-pi-orpin.vercel.app/">
-    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=Promoforia&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="Promoforia">
-  </a>
-  <a href="https://github.com/Lusxka/WebCashController">
-    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=WebCashController&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="WebCashController">
-  </a>
-  <a href="https://github.com/Lusxka/DesapegaSenac">
-    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=DesapegaSenac&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="DesapegaSenac">
-  </a>
-  <a href="https://github.com/Barreto0620/D-PAZZ">
-    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Barreto0620&repo=D-PAZZ&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="D-PAZZ">
-  </a>
-</div>
+<table align="center" style="border:0; border-collapse: collapse;">
+    <tr style="border:0;">
+        <td align="center" style="padding: 8px; border:0;">
+            <a href="https://projeto-react-pi-orpin.vercel.app/">
+                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=Promoforia&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="Promoforia">
+            </a>
+        </td>
+        <td align="center" style="padding: 8px; border:0;">
+            <a href="https://github.com/Lusxka/WebCashController">
+                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=WebCashController&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="WebCashController">
+            </a>
+        </td>
+    </tr>
+    <tr style="border:0;">
+        <td align="center" style="padding: 8px; border:0;">
+            <a href="https://github.com/Lusxka/DesapegaSenac">
+                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=DesapegaSenac&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="DesapegaSenac">
+            </a>
+        </td>
+        <td align="center" style="padding: 8px; border:0;">
+            <a href="https://github.com/Barreto0620/D-PAZZ">
+                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Barreto0620&repo=D-PAZZ&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="D-PAZZ">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <br>
 
