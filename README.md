@@ -59,7 +59,7 @@
     <tr style="border:0;">
         <td align="center" style="padding: 8px; border:0;">
             <a href="https://webgymbeta.netlify.app/login">
-                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=Webgym&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="WebGym">
+                <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lusxka&repo=Webgymview&theme=react&bg_color=1F222E&title_color=2FF704&hide_border=true&icon_color=2FF704&show_icons=true&cache_seconds=1" alt="WebGym">
             </a>
         </td>
         <td align="center" style="padding: 8px; border:0;">
